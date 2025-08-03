@@ -1,0 +1,3 @@
+['remote "origin"']
+    url = s3://dvc
+    endpointurl = https://dagshub.com/Sachin-0001/MPipeline.s3
